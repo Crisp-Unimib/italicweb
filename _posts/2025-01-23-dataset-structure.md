@@ -21,10 +21,10 @@ tags:
 author: CRISP Research
 ---
 
-<!-- This section provides a description of the dataset fields, and additional information about the dataset structure such as criteria used to create the splits, relationships between data points, etc. -->
-
 {: .box-success}
 _ITALIC_ contains 10,000 carefully curated questions selected from an initial corpus of 2,110,643 questions.
+
+<!-- This section provides a description of the dataset fields, and additional information about the dataset structure such as criteria used to create the splits, relationships between data points, etc. -->
 
 Each question is formatted as a multiple-choice query, with an average question length of 87 characters and a median of 4 answer options.
 The longest question is 577 characters long. The minimum number of choices per question is 2, while the maximum is 5.

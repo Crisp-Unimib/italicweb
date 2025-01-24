@@ -1,25 +1,66 @@
----
-layout: post
-title: Dataset Curation
-subtitle: A detailed description of the dataset curation process
-gh-repo: Crisp-Unimib/ITALIC
-gh-badge: [star, fork, follow]
-cover-img: /assets/img/colosseo.png
-thumbnail-img: /assets/img/colosseo.jpg
-share-img: /assets/img/thumb.png
-tags:
-  [
-    dataset,
-    curation,
-    italian,
-    culture,
-    commonsense,
-    reasoning,
-    linguistic,
-    proficiency,
-  ]
-author: CRISP Research
----
+{: .box-success}
+ITALIC is a benchmark evaluating language models' understanding of Italian culture, commonsense reasoning and linguistic proficiency in a morphologically rich language.
+
+<!-- Provide a quick summary of the dataset. -->
+<center><img src="./assets/img/examples.png" width="350" /></center>
+
+Above are example questions from _ITALIC_. **Note**: every example is a direct translation; the original questions
+are in Italian. The correct option is marked by (✓).
+
+## Dataset Details
+
+### Dataset Description
+
+<!-- Provide a longer summary of what this dataset is. -->
+
+We present _ITALIC_, a large-scale benchmark dataset of 10,000 multiple-choice questions designed to evaluate the natural language understanding of the Italian language and culture.
+_ITALIC_ spans 12 domains, exploiting public tests to score domain experts in real-world scenarios.
+We detail our data collection process, stratification techniques, and selection strategies.
+
+_ITALIC_ provides a comprehensive assessment suite that captures commonsense reasoning and linguistic proficiency in a morphologically rich language.
+It serves as a benchmark for evaluating existing models and as a roadmap for future research, encouraging the development of more sophisticated and culturally aware natural language systems.
+
+- **Curated by:** CRISP research centre https://crispresearch.it/
+- **Language(s) (NLP):** Italian
+- **License:** MIT
+
+### Dataset Sources
+
+<!-- Provide the basic links for the dataset. -->
+
+- **Huggingface:** https://huggingface.co/datasets/Crisp-Unimib/ITALIC
+- **Zenodo** [ADD THIS LATER]
+- **Paper:** [ACCEPTED AT NAACL25]
+
+## Citation
+
+<!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
+
+**BibTeX:**
+
+```
+[COMING SOON]
+```
+
+**APA:**
+
+[COMING SOON]
+
+{: .box-success}
+_ITALIC_ contains 10,000 carefully curated questions selected from an initial corpus of 2,110,643 questions.
+
+<!-- This section provides a description of the dataset fields, and additional information about the dataset structure such as criteria used to create the splits, relationships between data points, etc. -->
+
+Each question is formatted as a multiple-choice query, with an average question length of 87 characters and a median of 4 answer options.
+The longest question is 577 characters long. The minimum number of choices per question is 2, while the maximum is 5.
+The total number of tokens across the input data amounts to 499,963.
+
+| Column     | Data Type | Description                                     |
+| ---------- | --------- | ----------------------------------------------- |
+| `question` | [String]  | The actual content of the question              |
+| `options`  | [List]    | The options to choose from. Only one is correct |
+| `answer`   | [String]  | The correct answer out of the options           |
+| `category` | [String]  | The dedicated cultural section of the question  |
 
 {: .box-success}
 The corpus comprises questions and tasks from real-world exams, professional assessments, and domain-specific challenges.

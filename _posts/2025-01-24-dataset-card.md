@@ -21,11 +21,10 @@ tags:
 author: CRISP Research
 ---
 
-<!-- Provide a quick summary of the dataset. -->
-
 {: .box-success}
 ITALIC is a benchmark evaluating language models' understanding of Italian culture, commonsense reasoning and linguistic proficiency in a morphologically rich language.
 
+<!-- Provide a quick summary of the dataset. -->
 <center><img src="./assets/img/examples.png" width="350" /></center>
 
 Above are example questions from _ITALIC_. **Note**: every example is a direct translation; the original questions
