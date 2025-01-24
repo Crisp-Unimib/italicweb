@@ -2,6 +2,8 @@
 layout: page
 title: ITALIC
 subtitle: An Italian Culture-Aware Natural Language Benchmark
+gh-repo: Crisp-Unimib/ITALIC
+gh-badge: [star, fork, follow]
 ---
 
 # Dataset Card for ITALIC
@@ -39,20 +41,6 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 - **Huggingface:** https://huggingface.co/datasets/Crisp-Unimib/ITALIC
 - **Zenodo** [ADD THIS LATER]
 - **Paper:** [ACCEPTED AT NAACL25]
-
-## Citation
-
-<!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
-
-**BibTeX:**
-
-```
-[COMING SOON]
-```
-
-**APA:**
-
-[COMING SOON]
 
 ## Dataset Structure
 
@@ -119,3 +107,17 @@ This possibility should be considered to avoid misinterpretations or unintended 
 ### Maintenance
 
 _ITALIC_ is designed to be robust and fully operational upon release, with no need for routine maintenance. However, as language and cultural norms evolve, periodic updates will be required to ensure the benchmark remains relevant. A new dataset version will be created and made available in such cases.
+
+## Citation
+
+<!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
+
+**BibTeX:**
+
+```
+[COMING SOON]
+```
+
+**APA:**
+
+[COMING SOON]
