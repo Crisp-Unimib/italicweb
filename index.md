@@ -1,3 +1,11 @@
+---
+layout: page
+title: ITALIC
+subtitle: An Italian Culture-Aware Natural Language Benchmark
+---
+
+# Dataset Card for ITALIC
+
 {: .box-success}
 ITALIC is a benchmark evaluating language models' understanding of Italian culture, commonsense reasoning and linguistic proficiency in a morphologically rich language.
 
@@ -46,6 +54,8 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 
 [COMING SOON]
 
+## Dataset Structure
+
 {: .box-success}
 _ITALIC_ contains 10,000 carefully curated questions selected from an initial corpus of 2,110,643 questions.
 
@@ -61,6 +71,10 @@ The total number of tokens across the input data amounts to 499,963.
 | `options`  | [List]    | The options to choose from. Only one is correct |
 | `answer`   | [String]  | The correct answer out of the options           |
 | `category` | [String]  | The dedicated cultural section of the question  |
+
+## Dataset Creation
+
+### Curation Rationale
 
 {: .box-success}
 The corpus comprises questions and tasks from real-world exams, professional assessments, and domain-specific challenges.
