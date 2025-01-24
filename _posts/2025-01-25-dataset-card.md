@@ -54,3 +54,17 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 - **Huggingface:** https://huggingface.co/datasets/Crisp-Unimib/ITALIC
 - **Zenodo** [ADD THIS LATER]
 - **Paper:** [ACCEPTED AT NAACL25]
+
+## Citation
+
+<!-- If there is a paper or blog post introducing the dataset, the APA and Bibtex information for that should go in this section. -->
+
+**BibTeX:**
+
+```
+[COMING SOON]
+```
+
+**APA:**
+
+[COMING SOON]
