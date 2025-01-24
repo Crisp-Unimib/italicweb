@@ -4,7 +4,7 @@ title: Dataset Curation
 subtitle: A detailed description of the dataset curation process
 gh-repo: Crisp-Unimib/ITALIC
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/thumb.png
+cover-img: /assets/img/colosseo.png
 thumbnail-img: /assets/img/colosseo.jpg
 share-img: /assets/img/thumb.png
 tags:

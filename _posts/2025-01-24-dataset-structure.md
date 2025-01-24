@@ -4,8 +4,8 @@ title: Dataset Structure
 subtitle: What the dataset looks like
 gh-repo: Crisp-Unimib/ITALIC
 gh-badge: [star, fork, follow]
-cover-img: /assets/img/thumb.png
-thumbnail-img: /assets/img/colosseo.jpg
+cover-img: /assets/img/duomo.png
+thumbnail-img: /assets/img/duomo.jpg
 share-img: /assets/img/thumb.png
 tags:
   [
