@@ -39,7 +39,7 @@ The initial data was sourced from various files in PDF, HTML, DOC, and other for
 
 Please consult the full paper for a detailed description of our curation process.
 
-<center><img src="./img/workflow.svg" width="350" height="350" /></center>
+<center><img src="./img/assets/workflow.svg" width="350" height="350" /></center>
 
 #### Who are the source data producers?
 
