@@ -2,14 +2,27 @@
 layout: post
 title: Dataset Card for ITALIC
 subtitle: A quick summary of the dataset.
-cover-img: /assets/img/examples.png
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/examples.png
-tags: [books, test]
+gh-repo: Crisp-Unimib/ITALIC
+gh-badge: [star, fork, follow]
+cover-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/examples.png
+share-img: /assets/img/thumb.png
+tags:
+  [
+    dataset,
+    card,
+    italian,
+    culture,
+    commonsense,
+    reasoning,
+    linguistic,
+    proficiency,
+  ]
 ---
 
 <!-- Provide a quick summary of the dataset. -->
 
+{: .box-success}
 ITALIC is a benchmark evaluating language models' understanding of Italian culture, commonsense reasoning and linguistic proficiency in a morphologically rich language.
 
 <center><img src="./assets/img/examples.png" width="350" /></center>
