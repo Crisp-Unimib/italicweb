@@ -30,7 +30,7 @@ We detail our data collection process, stratification techniques, and selection 
 _ITALIC_ provides a comprehensive assessment suite that captures commonsense reasoning and linguistic proficiency in a morphologically rich language.
 It serves as a benchmark for evaluating existing models and as a roadmap for future research, encouraging the development of more sophisticated and culturally aware natural language systems.
 
-- **Curated by:** CRISP research centre https://crispresearch.it/
+- **Curated by:** CRISP research centre [https://crispresearch.it/](https://crispresearch.it/)
 - **Language(s) (NLP):** Italian
 - **License:** MIT
 
@@ -38,7 +38,7 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 
 <!-- Provide the basic links for the dataset. -->
 
-- **Huggingface:** https://huggingface.co/datasets/Crisp-Unimib/ITALIC
+- **Huggingface:** [https://huggingface.co/datasets/Crisp-Unimib/ITALIC](https://huggingface.co/datasets/Crisp-Unimib/ITALIC)
 - **Zenodo** [ADD THIS LATER]
 - **Paper:** [ACCEPTED AT NAACL25]
 
