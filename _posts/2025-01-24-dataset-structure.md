@@ -4,6 +4,9 @@ title: Dataset Structure
 subtitle: What the dataset looks like
 gh-repo: Crisp-Unimib/ITALIC
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/colosseo.jpg
+share-img: /assets/img/thumb.png
 tags:
   [
     dataset,
@@ -15,7 +18,7 @@ tags:
     linguistic,
     proficiency,
   ]
-author: Bill Smith
+author: CRISP Research
 ---
 
 <!-- This section provides a description of the dataset fields, and additional information about the dataset structure such as criteria used to create the splits, relationships between data points, etc. -->

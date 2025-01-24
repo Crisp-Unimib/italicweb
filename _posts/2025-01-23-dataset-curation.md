@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Dataset Curation
-subtitle:
+subtitle: A detailed description of the dataset curation process
 gh-repo: Crisp-Unimib/ITALIC
 gh-badge: [star, fork, follow]
+cover-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/colosseo.jpg
+share-img: /assets/img/thumb.png
 tags:
   [
     dataset,
@@ -15,13 +18,12 @@ tags:
     linguistic,
     proficiency,
   ]
-author: Bill Smith
+author: CRISP Research
 ---
-
-### Curation Rationale
 
 <!-- Motivation for the creation of this dataset. -->
 
+{: .box-success}
 The corpus comprises questions and tasks from real-world exams, professional assessments, and domain-specific challenges.
 Given that the data originates from institutional sources, it is expected to maintain a high standard of quality and accuracy, as domain experts crafted it for public evaluations.
 
