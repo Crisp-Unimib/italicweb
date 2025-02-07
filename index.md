@@ -39,7 +39,7 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 <!-- Provide the basic links for the dataset. -->
 
 - **Huggingface:** [https://huggingface.co/datasets/Crisp-Unimib/ITALIC](https://huggingface.co/datasets/Crisp-Unimib/ITALIC)
-- **Zenodo** [ADD THIS LATER]
+- **Zenodo** [https://doi.org/10.5281/zenodo.14725822](https://doi.org/10.5281/zenodo.14725822)
 - **Paper:** [ACCEPTED AT NAACL25]
 
 ## Dataset Structure
@@ -53,12 +53,13 @@ Each question is formatted as a multiple-choice query, with an average question 
 The longest question is 577 characters long. The minimum number of choices per question is 2, while the maximum is 5.
 The total number of tokens across the input data amounts to 499,963.
 
-| Column     | Data Type | Description                                     |
-| ---------- | --------- | ----------------------------------------------- |
-| `question` | [String]  | The actual content of the question              |
-| `options`  | [List]    | The options to choose from. Only one is correct |
-| `answer`   | [String]  | The correct answer out of the options           |
-| `category` | [String]  | The dedicated cultural section of the question  |
+| Column           | Data Type | Description                                     |
+| ---------------- | --------- | ----------------------------------------------- |
+| `question`       | [String]  | The actual content of the question              |
+| `options`        | [List]    | The options to choose from. Only one is correct |
+| `answer`         | [String]  | The correct answer out of the options           |
+| `category`       | [String]  | The dedicated cultural section of the question  |
+| `macro_category` | [String]  | The macro category of the question              |
 
 ## Dataset Creation
 
