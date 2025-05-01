@@ -40,7 +40,7 @@ It serves as a benchmark for evaluating existing models and as a roadmap for fut
 
 - **Huggingface:** [https://huggingface.co/datasets/Crisp-Unimib/ITALIC](https://huggingface.co/datasets/Crisp-Unimib/ITALIC)
 - **Zenodo** [https://doi.org/10.5281/zenodo.14725822](https://doi.org/10.5281/zenodo.14725822)
-- **Paper:** [ACCEPTED AT NAACL25]
+- **Paper:** [Full Paper Available at ACL Anthology](https://aclanthology.org/2025.naacl-long.68.pdf)
 
 ## Dataset Structure
 
@@ -116,9 +116,17 @@ _ITALIC_ is designed to be robust and fully operational upon release, with no ne
 **BibTeX:**
 
 ```
-[COMING SOON]
+@inproceedings{seveso2025italic,
+  title={ITALIC: An Italian Culture-Aware Natural Language Benchmark},
+  author={Seveso, Andrea and Potert{\`\i}, Daniele and Federici, Edoardo and Mezzanzanica, Mario and Mercorio, Fabio},
+  booktitle={Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)},
+  pages={1469--1478},
+  year={2025}
+}
 ```
 
 **APA:**
 
-[COMING SOON]
+```
+Seveso, A., Potertì, D., Federici, E., Mezzanzanica, M., & Mercorio, F. (2025, April). ITALIC: An Italian Culture-Aware Natural Language Benchmark. In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 1469-1478).
+```
