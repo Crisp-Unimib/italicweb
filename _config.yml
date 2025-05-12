@@ -23,8 +23,9 @@ navbar-links:
   About CRISP: "https://crispresearch.it/"
   Resources:
     - Huggingface: "https://huggingface.co/datasets/Crisp-Unimib/ITALIC"
-    - Zenodo: ""
+    - Zenodo: "https://doi.org/10.5281/zenodo.14725822"
     - Github: "https://github.com/Crisp-Unimib/ITALIC"
+    - Full Paper: "https://aclanthology.org/2025.naacl-long.68.pdf"
 
 ################
 # --- Logo --- #
